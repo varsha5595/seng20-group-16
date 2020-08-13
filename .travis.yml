@@ -1,4 +1,4 @@
-language: c
+language: python
 os:
     windows
     linux
@@ -39,4 +39,4 @@ jobs:
       dist: trusty
 notifications:
     secure: encrypted string
-version: ">= 1.2.15"
+version: ">= 3.7"
