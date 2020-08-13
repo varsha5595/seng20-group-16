@@ -1,7 +1,2 @@
 language: python
-os:
-    windows
-    linux
-dist: trusty
-sudo: false
-version: ">= 3.7"
+version: ">= 3"
