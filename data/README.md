@@ -1,4 +1,5 @@
-# ![SE](./etc/banner.PNG)
+
+# ![SE](../etc/banner.PNG)
 # Homework 1
 <p align="center">
     <img src="https://img.shields.io/badge/language-python-orange.svg">&nbsp;

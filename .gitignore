@@ -4,6 +4,8 @@
 .Python
 build/
 dist/
+MANIFEST
+
 
 # Environments
 .env
