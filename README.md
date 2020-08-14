@@ -12,7 +12,7 @@
 <table>
     <tr>
         <td>
-            This is README will always represent the sole truth regarding the project!
+            This README will always represent the sole truth regarding the project!
         </td>
     </tr>
 </table>
